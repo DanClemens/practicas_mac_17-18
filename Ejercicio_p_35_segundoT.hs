@@ -1,0 +1,1 @@
+segundoT (_,b) = b

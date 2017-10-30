@@ -1,0 +1,1 @@
+primeroT (a,_) = a
